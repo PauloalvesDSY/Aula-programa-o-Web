@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+*{
+    font-family: "Bungee Spice", sans-serif;
+}
+
+header{background-color: #4e51ef ;
+    color: white;
+    text-align: center;
+}
+
+.li-navbar{
+    list-style:none;
+    display: inline-block;
+}
+
+.li-navbar:hover{
+    color: rgb(255, 0, 106);
+    font-size: 24px;
+    
+}
+
+.introdução{
+    background-color: black;
+    color:white;
+}
+
+.descrição{background-color: black;
+           color:white;
+}
